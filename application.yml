@@ -1,6 +1,6 @@
 spring:
  application:
-  name: CONFIG-SERVICE-DEFAULT
+  name: PDS-DEFAULT
 eureka:
  instance:
    prefer-ip-address: true
